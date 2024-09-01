@@ -19,13 +19,13 @@
 - ETL (Extract, Transform, Load): Converted data from MongoDB to structured DataFrames.
 - Exploratory Data Analysis (EDA): Performed in-depth analysis and visualization of Airbnb data.
 - Interactive Streamlit UI: Developed a user-friendly interface for data exploration and presentation.
-- Tableau Dashboard : Interactive eye-catching dashboard with awesome filter
+- Tableau Dashboard: Interactive eye-catching dashboard with awesome filter
 
 - # Getting Started
 
 1. Clone the repository:
    
-         https://github.com/praveendecode/Airbnb_Analysis
+         https://github.com/AshwiniSuryakarCode/Airbnb_Analysis
 
 3. Install required packages:
    
